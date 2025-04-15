@@ -3,7 +3,7 @@
 **Final Netfilx**
 
 ### **[Vom 바로가기~☎️](https://netfilx-rec5.vercel.app/)**
-### **[[logoo](https://github.com/user-attachments/assets/b9a2c446-f315-4512-8a11-1bf1cbd45f46)](https://netfilx-rec5.vercel.app/)**
+### **[![logoo](https://github.com/user-attachments/assets/b9a2c446-f315-4512-8a11-1bf1cbd45f46)](https://netfilx-rec5.vercel.app/)**
 
 
 
